@@ -19,3 +19,39 @@ header .content a h4{
     color: aquamarine;
     font-size: 1rem;
 }
+
+#feature h1{
+    color: white;
+    font-weight: 300;
+    font-size: 2.625rem;
+}
+
+#feature h4{
+    color: gray;
+    font-size: 1.3125rem;
+}
+
+#footer h1{
+    color: white;
+    font-size: 3.125rem;
+}
+
+#footer a{
+    color: aquamarine;
+    font-size: 1rem;
+}
+
+#footer a h4{
+    color: aquamarine;
+    font-size: 1rem;
+}
+
+#footer .trademark img{
+    color: white;
+}
+
+#footer .trademark h4{
+    color: gray;
+    text-align: right;
+    font-size: 1.3125rem;
+}
